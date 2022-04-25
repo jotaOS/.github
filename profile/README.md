@@ -13,3 +13,5 @@ The whole project aims to be two things:
 This is a full operating system, not a kernel or a Linux distribution. It has its own microkernel and userspace, with drivers, services, and tools. The only parts that are not written by me are the bootloader (currently using [Limine](https://github.com/limine-bootloader), which I recommend), and the userspace allocator (Durand's `liballoc`, which I will probably change in the future).
 
 This is fruit of many years of research and debugging. It's the work of my life. Do not undervalue the thousands of hours of effort put into this project.
+
+[Click here to begin](https://github.com/jotaOS/jotaOS)
