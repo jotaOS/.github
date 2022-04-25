@@ -1,4 +1,7 @@
-# jotaOS
+<p align="center">
+  <img src="profile/imgs/banner.png">
+</p>
+
 jotaOS is an x86_64 microkernel operating system made in C++ from scratch. It doesn't aim to be a substitute for any existing one, but:
 
 - It's an exercise for myself
@@ -14,4 +17,4 @@ This is a full operating system, not a kernel or a Linux distribution. It has it
 
 This is fruit of many years of research and debugging. It's the work of my life. Do not undervalue the thousands of hours of effort put into this project.
 
-[Click here to begin](https://github.com/jotaOS/jotaOS)
+[Click here to begin.](https://github.com/jotaOS/jotaOS)
