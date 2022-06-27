@@ -6,7 +6,7 @@ Strife is an x86-64 microkernel operating system made in C++ from scratch. It do
 
 - It's an exercise for myself
 - It's a way to show the feasibility of the different ideas I propose
-- Not long ago, I decided it to be my TFG (final undergraduate project)
+- Not long ago, I decided it to be my bachelor thesis
 
 Strife is, according to Empedocles, the force that separates the elements.
 
