@@ -18,8 +18,8 @@ The whole project aims to be three things:
 
 The only parts that are not written by me are the bootloader (currently using [Limine](https://github.com/limine-bootloader), which I recommend), and the userspace allocator (Durand's `liballoc`, which I will probably change in the future).
 
-Lost? Understandable. There are a lot of repositories here. Ignore the list of GitHub and [click here](https://github.com/Strife/projects).
+Lost? Understandable. There are a lot of repositories here. Ignore the list of GitHub and [click here](https://github.com/the-strife-project/projects).
 
 This is fruit of many years of research and debugging. It's the work of my life. Do not undervalue the thousands of hours of effort put into this project.
 
-[Click here to begin.](https://github.com/Strife/Strife)
+[Click here to begin.](https://github.com/the-strife-project/Strife)
