@@ -1,3 +1,7 @@
+Strife has been marked as _finished_. Read [the farewell](https://github.com/the-strife-project/.github/blob/master/profile/farewell.md).
+
+---
+
 <!--<p align="center">
   <img src="https://github.com/jotaOS/.github/raw/master/profile/imgs/banner.png">
 </p>-->
