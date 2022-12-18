@@ -20,6 +20,6 @@ This made me work on it day and night for two months with enormous levels of str
 with the kernel and the running services. The most interesting thing it can do is create files, directories, and manage their permissions.
 
 I meant to keep working on it, but I've come to realize that's not what I want to do with my time. So, I hereby mark Strife as _completed_,
-finished and archived for the rest of time.
+even with all its bugs (mainly memory leaks). It's finished and archived for the rest of time.
 
-I've started a new OS project, (name here), which takes some of the ideas of Strife, but does most of the things from a completely opposite perspective.
+I've started a new OS project, (name here when it comes), which takes some of the ideas of Strife, but does most of the things from a completely opposite perspective.
