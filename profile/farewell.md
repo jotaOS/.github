@@ -22,4 +22,4 @@ with the kernel and the running services. The most interesting thing it can do i
 I meant to keep working on it, but I've come to realize that's not what I want to do with my time. So, I hereby mark Strife as _completed_,
 even with all its bugs (mainly memory leaks). It's finished and archived for the rest of time.
 
-I've started a new OS project, (name here when it comes), which takes some of the ideas of Strife, but does most of the things from a completely opposite perspective.
+I've started a new OS project, [@daisogen](https://github.com/daisogen), which takes some of the ideas of Strife, but does most of the things from a completely opposite perspective.
